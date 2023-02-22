@@ -33,6 +33,7 @@ html{
     font-size: 10px;
 }
 body{
+    font-family: 'Rubik', sans-serif;
     background-image: url("./images/img.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -43,11 +44,11 @@ body{
     line-height: 1;
 }
 .main-header{
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 3.2rem;
+    gap: 3rem;
     margin-left: 50%;
 }
 nav{
